@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-I8L7OUOIDJ0</Machine>
+    <WindowsUser>LENOVO</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>406FADDA9262F6286E062B7E711B3AC4FAA5950469B92AD0141FBF3D1565DAB1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>87c0967f-6464-4186-8682-6236f0927a51_1.0.0.0_neutral__325rwxdznmp7y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>87c0967f-6464-4186-8682-6236f0927a51_325rwxdznmp7y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>87c0967f-6464-4186-8682-6236f0927a51</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=LENOVO</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\lenovo\documents\visual studio 2012\Projects\App3\App3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-02T07:55:57.907</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2012\Projects\App3\App3\css\sketchpad.css">
+      <PackagePath>css\sketchpad.css</PackagePath>
+      <Modified>2013-04-02T07:55:56.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2012\Projects\App3\App3\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-11-05T13:09:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2012\Projects\App3\App3\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-04-02T07:55:56.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2012\Projects\App3\App3\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T13:09:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2012\Projects\App3\App3\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T13:09:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2012\Projects\App3\App3\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T13:09:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2012\Projects\App3\App3\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T13:09:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2012\Projects\App3\App3\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-09-30T18:24:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2012\Projects\App3\App3\js\sketchpad.js">
+      <PackagePath>js\sketchpad.js</PackagePath>
+      <Modified>2013-04-02T07:48:07.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2012\Projects\App3\App3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-02T07:55:57.486</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
